@@ -40,4 +40,4 @@ We are stronger together. If you believe in internet freedom, join **NotNet** an
 
 
 
-<iframe src="https://github.com/mohammadhasanii/NotNet/blob/master/internet-iran.html" width="100%" height="500px"></iframe>
+<iframe src="https://github.com/mohammadhasanii/NotNet/blob/master/internet-iran" width="100%" height="500px"></iframe>
