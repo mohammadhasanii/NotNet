@@ -35,9 +35,9 @@ We are stronger together. If you believe in internet freedom, join **NotNet** an
 📢 **Internet freedom is a right, not a privilege.**
 
 ## 🛜 The fourth internet quality report in Iran
-<embed src="چهارمین_گزارش_کیفیت_اینترنت_در_ایران.html" type="application/pdf" width="100%" height="600px" />
 
 
 
 
-<iframe src="چهارمین_گزارش_کیفیت_اینترنت_در_ایران.html" width="100%" height="500px"></iframe>
+
+<iframe src="internet-iran.html" width="100%" height="500px"></iframe>
